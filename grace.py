@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Formou-se em 1944 como a primeira da turma e foi designada para a Bureau of Ships Computation Project da Harvard University como tenente júnior. Ela serviu na equipe de programação Mark I computer dirigida por Howard H. Aiken."
     return mensagem
 
 
