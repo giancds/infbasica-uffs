@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Foi doutorado em Administração Industrial pelo Instituto Tecnológico da Carnegie Mellon University"
     return mensagem
 
 
