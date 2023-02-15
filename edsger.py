@@ -61,7 +61,7 @@ while continuar == True:
         print("3 - Contribuições")
         mensagem = contribuicoes()
     elif opcao == 5:
-        print("5 - Citações")
+        print("5 - Citaçõe")
         mensagem = citacoes()
 
     elif opcao == 6:
