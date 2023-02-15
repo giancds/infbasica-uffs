@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = "Howard Aiken: Portrait of a computer pioneer"
+    mensagem = "Howard Aiken: Portrait of a computer pioneer "
     return mensagem
 
 
 def citacoes():
-    mensagem = '"Don\'t worry about people stealing an idea. If it\'s original, you will have to ram it down their throats."'
+    mensagem = '"Don\'t worry about people stealing an idea. If it\'s original, you will have to ram it down their throats. "'
     return mensagem
 
 
