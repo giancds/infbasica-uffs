@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "GGeoffrey Everest Hinton nasceu em 6 de dezembro de 1947 em Londres, Reino Unido, e é um especialista em psicologia cognitiva e cientista da computação reconhecido por ser trabalho em redes neurais artificiais. Professor no departamento de ciência da computação na Universidade de Toronto (Canadá), também atua como conselheiro de Aprendizado de Máquina no Instituto Canadense de Pesquisa Avançada. Em 2012 ofereceu um curso on-line gratuito sobre Redes Neurais na plataforma educacional Coursera."
+    mensagem = "Geoffrey Everest Hinton nasceu em 6 de dezembro de 1947 em Londres, Reino Unido, e é um especialista em psicologia cognitiva e cientista da computação reconhecido por ser trabalho em redes neurais artificiais. Professor no departamento de ciência da computação na Universidade de Toronto (Canadá), também atua como conselheiro de Aprendizado de Máquina no Instituto Canadense de Pesquisa Avançada. Em 2012 ofereceu um curso on-line gratuito sobre Redes Neurais na plataforma educacional Coursera."
     return mensagem
 
 
