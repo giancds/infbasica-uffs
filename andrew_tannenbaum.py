@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "- Redes de computadores. \n- Sistemas Operacionais: Projeto e Implementação, (co-autor com Albert Woodhull). \n- Sistemas Operacionais Modernos. \n- Organização Estruturada de Computadores. \n- Sistemas Distribuídos: Princípios e Paradigmas, (co-autor com Maarten van Steen)."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = '“The good thing about standards is that there are so many to choose from.” ― Andrew S. Tanenbaum. \n“The amount of improvement that has occurred in computer technology in the past half century is truly staggering and unprecedented in other industries. ... If cars had improved at this rate in the same time period, a Rolls Royce would now cost 10 dollars and get a billion miles per gallon. (Unfortunately, it would probably also have a 200-page manual telling how to open the door.)”\n― Andrew Tanenbaum'
     return mensagem
 
 
