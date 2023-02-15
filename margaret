@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = "Fez pós-graduação em Meteorologia no MIT (Instituto de Tecnologia de Massachusetts)."
+    mensagem = "Se dedicou ao estudo da matemática na Universidade de Michigan.e se formou na Earlham College em 1958. Sua pós-graduação foi em meteorologia no Instituto de Tecnologia de Massachusetts (MIT)."
     return mensagem
 
 
@@ -14,7 +14,7 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = "Ela trabalhou na NASA para o projeto Apollo 11, desenvolvendo o software que permitiu que homem chegasse à Lua pela primeira vez. Além disso, contribuiu em diversos outros projetos importantes e publicou mais de cem artigos sobre suas pesquisas."
+    mensagem = "Margaret publicou mais de 130 artigos, atas e relatórios relacionados aos 60 projetos e 6 programas importantes nos quais ela esteve envolvida. Em 22 de novembro de 2016 foi premiada com a Medalha Presencial da Liberdade pelo presidente dos Estados Unidos Barack Obama, honraria recebida por seu trabalho sobre o desenvolvimento do software de voo a bordo das missões Apollo da NASA."
     return mensagem
 
 
