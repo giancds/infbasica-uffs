@@ -1,25 +1,25 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Leslie Lamport é um cientista da computação estadunidense, nascido em Nova York no ano de 1941 em Nova York, fez importantes contribuições no campo da computação"
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Formou-se doutor em matemática pela Universidade Brandeis em 1972, sua tese de dou"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "relógios lógicos (logical clocks) e a relação antes-depois, bem como as falhas Bizantinas"
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Seus principais artigos foram: Time, Clocks, and the Ordering of Events in a Distributed System, Distributed snapshots: determining global states of distributed systems, The Byzantine Generals Problem, The Part-time Parliament"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "relógios lógicos (logical clocks) e a relação antes-depois são alguns de seus conceitos mais citados"
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Leslie Lamport.\n")
 
 continuar = True
 while continuar == True:
