@@ -4,17 +4,33 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = """
+        Bacharelado: Linguagens Naturais e Artificiais - Seattle Pacific University
+        Bacharelado: Linguística - Berkley University
+    
+    """
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = """
+        Larry Wall criou a linguagem de programação Perl em 1987 para facilitar o processamento de relatórios. 
+        É uma linguagem muito utilizada na administração de sistemas.
+        Além do Perl, Larry também criou a linguagem Raku (inicialmente chamada de Perl 6) em 2015 para corrigir erros antigos.
+        Por fim, Larry também é autor do programa patch do Unix, um programa que aplica as diferenças textuais entre dois programas [wikipedia].
+
+    
+    """
+    
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = """
+        Hobbits Would Make Great Programmers - Big Think
+        Programming Perl - O'Reilly
+    
+    """
     return mensagem
 
 
