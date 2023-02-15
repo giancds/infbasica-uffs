@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Larry Wall é um programador e autor americano que criou a linguagem de programação Perl"
     return mensagem
 
 
