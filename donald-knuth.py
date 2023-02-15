@@ -1,10 +1,12 @@
+#Donald-knuth
+
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Donald Evin Knuth (1938) é um matemático e cientista de computadores norte-americano, cientista computacional de renome e professor emérito da Universidade de Stanford. É o autor do livro The Art of Computer Programming, uma das principais referências da ciência da computação. Ele praticamente criou o campo de análise de algoritmos e fez muitas das principais contribuições a vários ramos da teoria da computação. Ele também criou o sistema tipográfico TeX, o sistema de criação de fontes METAFONT, além de ser pioneiro do conceito de programação literária. Finalmente, desenvolveu o conceito de número surreal."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Graduou-se em 1960 e em 1963 obteve o doutorado no Instituto de Tecnologia da Califórnia (Caltech)"
     return mensagem
 
 
@@ -33,7 +35,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Donald Knuth.\n")
 
 continuar = True
 while continuar == True:
