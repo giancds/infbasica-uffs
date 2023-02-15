@@ -1,10 +1,10 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = ""
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "McCarthy recebeu seu PhD em matemática da universidade de Princeton em 1951, após completar sua dissertação nomeada Operadores de projeção e equações diferenciais parciais."
     return mensagem
 
 
@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Entre suas principais publicações podemos citar:\n McCarthy, J. 1959. Programs with Common Sense. In Proceedings of the Teddington Conference on the Mechanization of Thought Processes, 756-91. London: Her Majesty's Stationery Office.\n\nMcCarthy, J. 2002. Actions and other events in situation calculus. In Fensel, D.; Giunchiglia, F.; McGuinness, D.; and Williams, M., eds., Proceedings of KR-2002, 615-628."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Progressos fundamentais não podem ser alcançados através de avanços incrementais em tecnologias existentes.\nJohn McCarthy."
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre John McCarthy.\n")
 
 continuar = True
 while continuar == True:
