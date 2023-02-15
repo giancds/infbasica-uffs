@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Andrew Tannenbaum."
+    mensagem = "Andrew Stuart Tanenbaum[1] (White Plains, 16 de março de 1944) é o chefe do Departamento de sistemas de computação, na Universidade Vrije, Amsterdã nos Países Baixos."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Recebeu o título de bacharelado pelo MIT e o doutorado pela UC Berkeley em 1971."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = " Ele é o autor do MINIX, um sistema operacional baseado no Unix com propósito educacional, e é conhecido por seus livros sobre ciência da computação."
     return mensagem
 
 
