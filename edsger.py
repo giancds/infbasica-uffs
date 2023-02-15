@@ -44,7 +44,7 @@ while continuar == True:
     3 - Contribuições
     4 - Principais Artigos
     5 - Citações
-    6 - Sair
+    6 - Sair 
 """
 
     opcao = input( ) 
