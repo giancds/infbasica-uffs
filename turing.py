@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = ""
+    mensagem = "Howard Hathaway Aiken was an American physicist and a pioneer in computing, being the original conceptual designer behind IBM's Harvard Mark I computer."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Aiken studied at the University of Wisconsin–Madison and later obtained his Ph.D. in physics at Harvard University in 1939."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "He envisioned an electro-mechanical computing device that could do much of the tedious work for him. This computer was originally called the ASCC (Automatic Sequence Controlled Calculator) and later renamed Harvard Mark I."
     return mensagem
 
 
