@@ -4,22 +4,22 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Se dedicou ao estudo da matemática na Universidade de Michigan.e se formou na Earlham College em 1958. Sua pós-graduação foi em meteorologia no Instituto de Tecnologia de Massachusetts (MIT)."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Uma das formas de reconhecimento dessa incrível trajetória a levou a ser honrada em 2016 com a medalha Presidencial da Liberdade pelo ex-presidente Barack Obama (Estados Unidos). Na ocasião foi dado destaque ao trabalho de desenvolvimento do software de voo da Apollo 11 da NASA, mas certamente todo conhecimento adquirido anteriormente por ela contribuiu para o fato específico da Apolo 11. As descobertas não são insights momentâneos, ainda que pareçam. São construções ao longo do tempo, e, quase sempre, coletivas."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Margaret publicou mais de 130 artigos, atas e relatórios relacionados aos 60 projetos e 6 programas importantes nos quais ela esteve envolvida. Em 22 de novembro de 2016 foi premiada com a Medalha Presencial da Liberdade pelo presidente dos Estados Unidos Barack Obama, honraria recebida por seu trabalho sobre o desenvolvimento do software de voo a bordo das missões Apollo da NASA."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "O que eles faziam quando você começava nessa organização era colocar você em um projeto que ninguém tinha conseguido ainda entender, ou sequer fazer algo funcionar. Quando eu comecei, eles me colocaram nesse projeto também. Era um código complicado e a pessoa que primeiro escreveu o software se orgulhava do fato que todos os comentários estavam em Grego ou Latim. Então me colocaram nesse projeto, e eu consegui fazer ele funcionar. Eu até imprimi as respostas em Grego e Latim. Eu fui a primeira que conseguiu fazer o projeto funciona - Margaret Hamilton"
     return mensagem
 
 
