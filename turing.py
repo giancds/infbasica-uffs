@@ -1,25 +1,28 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Leslie B. Lamport (7 de fevereiro de 1941) é um cientista da computação estadunidense. "
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Lamport formou-se em matemática pelo Massachusetts Institute of Technology em 1960, com mestrado e doutorado em matemática pela Universidade Brandeis, concluídos respectivamente em 1963 e 1972."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Suas pesquisas contribuíram com a fundação da teoria de sistemas distribuídos."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = " Time, Clocks, and the Ordering of Events in a Distributed System"
+    "Distributed snapshots: determining global states of distributed systems"
+    "The Byzantine Generals Problem"
+    "The Part-time Parliament""
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "https://pt.wikipedia.org/wiki/Leslie_Lamport"
     return mensagem
 
 
