@@ -1,10 +1,10 @@
 def resumo():
-    mensagem = "Larry Wall é um programador e autor americano que criou a linguagem de programação Perl"
+    mensagem = "Larry Wall é um programador e autor americano que criou a linguagem de programação Perl."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Larry Wall possui um grau de bacharel na Seattle Pacific university, de 1976."
     return mensagem
 
 
@@ -19,7 +19,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "'O Perl foi projetado para nunca ser perfeito. Foi projetado para evoluir, para ser adaptável, como dizem.' - Larry Wall, Linux Journal."
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Larry Wall.\n")
 
 continuar = True
 while continuar == True:
