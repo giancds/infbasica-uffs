@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = ""
+    mensagem = "Considerado um dos pioneiros dos estudos e desenvolvimentos da inteligência artificial, McCarthy é o pai de tecnologias como a linguagem de programação LISP e os sistemas de computação por tempo compartilhado, fazendo com que o poder ocioso de mainframes pudessem ser utilizados. Os computadores que hoje conhecemos como computadores pessoais, só vieram a existir cerca de dez anos depois da criação do conceito de Tempo Compartilhado(Time sharing)"
     return mensagem
 
 
@@ -9,7 +9,7 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "É considerado um dos fundadores da Inteligência artificial\n2- em 1958 propôs o conceito de 'Advice Talker' que inspirou trabalhos posteriores no ramo da Programação lógica\n3-Criador da linguagem de programação Lisp\n4- em 1959 criou o método 'Garbage Collection, uma espécie de gerenciamento automatico de memória, para resolver problemas em Lisp\n5- Em 1966, McCarthy e sua equipe em Stanford escreveram um programa de computador usado para jogar uma série de partidas de xadrez com contrapartes na União Soviética"
     return mensagem
 
 
