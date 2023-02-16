@@ -80,14 +80,3 @@ while continuar == True:
         mensagem = erro()
 
     print(mensagem)
-
-#     1971, An n log n Algorithm for Minimizing States in a Finite Automaton
-# 1972, The Complexity of Theorem Proving Procedures
-# 1974, A Linear Time Algorithm for Isomorphism of Planar Graphs
-# 1983, Data Structures and Algorithms
-# 1984, Optimal Computer Search Trees and Variable-Length Alphabetical Codes
-
-# 1994, 
-# 1996, 
-# 1999, 
-# 2003, 
