@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "John Von Neumann foi um matemático húngaro que utilizou pela primeira vez a linguagem binária para que as instruções, lidas na época por cartões perfurados, fossem gravadas na memória do computador;."
+    mensagem = ""
     return mensagem
 
 
@@ -9,7 +9,7 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = "Contribuiu com o hardware fazendo que as instruções fossem gravadas no ocmputador, que segue sendo o formato do processador atual até hoje. "
+    mensagem = ""
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Von\n")
+print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
 
 continuar = True
 while continuar == True:
