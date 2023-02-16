@@ -11,17 +11,17 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "É o autor do livro The Art of Computer Programming, uma das principais referências da ciência da computação."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Donald Evin Knuth (1938) é um matemático e cientista de computadores norte-americano, cientista computacional de renome e professor emérito da Universidade de Stanford."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "A ciência é o que nós compreendemos suficientemente bem para explicar a um computador. A arte é tudo mais"
     return mensagem
 
 
