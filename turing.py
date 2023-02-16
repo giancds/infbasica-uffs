@@ -12,14 +12,13 @@ def contribuicoes():
     mensagem = "He envisioned an electro-mechanical computing device that could do much of the tedious work for him. This computer was originally called the ASCC (Automatic Sequence Controlled Calculator) and later renamed Harvard Mark I."
     return mensagem
 
-
 def artigos():
-    mensagem = "Howard Aiken: Portrait of a computer pioneer "
+    mensagem = "Howard Aiken: Portrait of a computer pioneer"
     return mensagem
 
 
 def citacoes():
-    mensagem = '"Don\'t worry about people stealing an idea. If it\'s original, you will have to ram it down their throats. "'
+    mensagem = '"Don\'t worry about people stealing an idea. If it\'s original, you will have to ram it down their throats."'
     return mensagem
 
 
