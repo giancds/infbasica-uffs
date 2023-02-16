@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = ""
+    mensagem = "John Hopcroft é um matemático e cientista da computação americano, nascido em 7 de outubro de 1939 em Seattle, Washington. Ele é conhecido por suas contribuições à teoria da computação e aos algoritmos. Ele recebeu seu diploma de bacharel em engenharia elétrica pela Universidade de Seattle em 1961 e seu doutorado em matemática pela Universidade de Stanford em 1964. Começou sua carreira acadêmica como professor assistente na Universidade de Princeton em 1964, onde permaneceu até 1967. Em seguida, tornou-se professor de ciência da computação na Universidade Cornell, onde passou a maior parte de sua carreira, tornando-se professor emérito em 2000. Entre as suas contribuições mais importantes para a ciência da computação, destacam-se a definição do conceito de 'nível de determinação' para as gramáticas formais, o algoritmo de Hopcroft-Karp para a determinação de fluxo máximo em redes, o algoritmo de particionamento espectral para grafos e a coautoria do livro 'Introdução à Teoria dos Grafos'. Hopcroft foi o destinatário de vários prêmios e honras por suas contribuições, incluindo o Prêmio Turing em 1986, a Medalha Nacional de Ciência em 1987, e a Medalha John von Neumann em 2010. Ele também é membro da Academia Nacional de Engenharia, da Academia Nacional de Ciências e da Academia Americana de Artes e Ciências. Hoje em dia, John Hopcroft é um dos principais pesquisadores em ciência da computação e continua ativo na pesquisa e no ensino em sua área de especialização."
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre .\n")
+print("\nBoa noite! Você está aprendendo sobre John Hopcroft.\n")
 
 continuar = True
 while continuar == True:
