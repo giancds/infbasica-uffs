@@ -4,22 +4,22 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "2 doutorados foram realizados pro John hopcroft\n O primeiro doutorado foi em matemática na universidade de Stanford, em 1964, "
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Suas contribuições incluem avanços significativos em algoritmos, teoria dos grafos, teoria dos autômatos e linguagens formais, aprendizado de máquina e ciência da computação teórica em geral. Ele foi premiado com o Prêmio Turing de 1986, considerado o mais prestigioso prêmio em ciência da computação, por suas contribuições fundamentais à teoria da computação e por liderar a próxima geração de cientistas da computação."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "John Hopcroft escreveu 'An N log N Algorithm for Minimizing States in a Finite Automaton', 'The Complexity of Theorem Proving Procedures', 'A Linear Time Algorithm for Isomorphism of Planar Graphs', 'Data Structures and Algorithms', 'Optimal Computer Search Trees and Variable-Length Alphabetical Codes', 'Partitioning Digital Images', 'The Hopcroft-Karp Algorithm for Maximum Matching in Bipartite Graphs', 'On the Universality of Folded Hypercubes', 'Randomized Algorithms for Matrices and Data' e por fim 'A Algorithm for Automatically Fitting Digitized Curves', sendo esse ultimo artigo publicado em 2003."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Segundo o que diz o Google Scholar, ele tem mais de 150.000 citações e um índice h de 91."
     return mensagem
 
 
@@ -80,3 +80,14 @@ while continuar == True:
         mensagem = erro()
 
     print(mensagem)
+
+#     1971, An n log n Algorithm for Minimizing States in a Finite Automaton
+# 1972, The Complexity of Theorem Proving Procedures
+# 1974, A Linear Time Algorithm for Isomorphism of Planar Graphs
+# 1983, Data Structures and Algorithms
+# 1984, Optimal Computer Search Trees and Variable-Length Alphabetical Codes
+
+# 1994, 
+# 1996, 
+# 1999, 
+# 2003, 
