@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Karen Spärck Jones foi responsável por escrever diversos artigos para a Universidade de Cambridge, como Statistics and Retrieval: Past and Future('Estatística e recuperação: passado e futuro') e A Look Back and a Look Forward('Um olhar para trás e um olhar para frente')."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Uma famosa citação de Karen Spärck Jones é 'Você não precisa ter uma discussão filosófica cada vez que coloca os dedos em um teclado, mas como a computação está se espalhando cada vez mais longe na vida das pessoas, é preciso pensar sobre isso'."
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Karen Spärck Jones\n")
 
 continuar = True
 while continuar == True:
