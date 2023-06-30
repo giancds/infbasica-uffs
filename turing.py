@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Karen Spärck Jones foi uma cientista da computação britânica especializada em processamento de linguagem natural e recuperação de informações."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Karen Spärck Jones realizou seus estudos em Cambridge, na Inglaterra. Sua tese de doutorado 'Synonymy and Semantic Classification' é agora reconhecida como à frente de seu tempo na exploração de técnicas estatísticas e simbólicas combinadas em PNL. "
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Criou o conceito conhecido como 'freqüência inversa do termo', que é a base dos sistemas de busca e localização. Ele analisa os termos que mais aparecem nos textos e os cruzam com um sistema de filtro, mostrando a relevância dos temas para a busca."
     return mensagem
 
 
