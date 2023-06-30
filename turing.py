@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "John McCarthy foi um cientista estadunidense, conhecido pelos estudos no campo da inteligência artificial e por ser o criador da liguagem de programação Lisp. "
     return mensagem
 
 
@@ -19,7 +19,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Progressos fundamentais não podem ser alcançados através de avanços incrementais em technologias existentes. "
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre John McCarthy\n")
 
 continuar = True
 while continuar == True:
