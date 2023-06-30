@@ -1,20 +1,20 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = ""
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "ele tem Ph.D. em mateática pela universidade de Princeton"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "suas contribuições foram foram a abordagem logisitcas para IA e levou ao desenvolvimento da linguagem de computador LISP"
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "artigo sobre linguagem de programção:Funções Recursivas de Expressões Simbólicas e sua Computação por Máquina (Parte I), artigo sobre teoria matematica da computção:A Basis for a Mathematical Theory of Computation,"
     return mensagem
 
 
