@@ -1,3 +1,5 @@
 # Informática Básica - UFFS - 2022/2
 
-Código base para laboratório sobre controles de versão e Git.
+## trabalho sobre `Alan Turing`
+Obrigado por tudo pai... Da computação.
+
