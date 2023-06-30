@@ -1,25 +1,24 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Margaret Heafiel Hamilton é uma cientista da computação, engenheira de software e empresaria. Participou do projeto Apollo 11, a primeira missao tripulada á Lua, contribuiu sendo a diretora da Divisão de Software no Laboratorio de instrumentação do MIT, desenvolvendo o programa de voo usado no projeto."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Ensino Médio:  Hancock High School;\nGraduação: Universidade de Michigan - Earlham College;\nPós Graduação: Metereologia no MIT."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Além de desenvolver o programa de voo usado na missão Apollo 11, Margaret foi uma das desenvolvedors dos conceitos de computação paralela, teste de sistema, e capacidade de decisão com integração humana, tal como mostradores de prioridade que viriam a ser fundamento do design de software ultra confiável. Margaret recebe creditos por ter criado o termo 'engenharia de softaware'."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Publicou mais de 130 artigos, atas e relatórios relacionados aos 60 projetos e 6 programas importantes nos quais ela esteve envolvida. "
     return mensagem
 
-
 def citacoes():
-    mensagem = ""
+    mensagem = "“O que eles faziam quando você começava nessa organização era colocar você em um projeto que ninguém tinha conseguido ainda entender, ou sequer fazer algo funcionar. Quando eu comecei, eles me colocaram nesse projeto também. Era um código complicado e a pessoa que primeiro escreveu o software se orgulhava do fato que todos os comentários estavam em Grego ou Latim. Então me colocaram nesse projeto, e eu consegui fazer ele funcionar. Eu até imprimi as respostas em Grego e Latim. Eu fui a primeira que conseguiu fazer o projeto funcionar”."
     return mensagem
 
 
@@ -33,7 +32,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Margaret Hamilton.\n")
 
 continuar = True
 while continuar == True:
