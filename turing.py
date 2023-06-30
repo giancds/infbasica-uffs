@@ -14,12 +14,15 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = " Guido van Rossum: The Modern Era of Python Publicado na revista IEEE Journals & Magazine em março de 2015\n https://ieeexplore.ieee.org/document/7063180\n "
+
+   
+   
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "    Bonito é melhor que feio.\n Explícito é melhor que implícito.\n Simples é melhor que complexo.\n Complexo é melhor que complicado.\n Linear é melhor do que aninhado.\n Esparso é melhor que denso.\n Legibilidade conta.\n Casos especiais não são especiais o bastante para quebrar as regras.\n Ainda que praticidade vença a pureza.\n Erros nunca devem passar silenciosamente.\n menos que sejam explicitamente silenciados.\n Diante da ambiguidade, recuse a tentação de adivinhar. \n Dever haver um — e preferencialmente apenas um — modo óbvio para fazer algo. \n Embora esse modo possa não ser óbvio a princípio a menos que você seja holandês. \n Agora é melhor que nunca.\n Apesar de que nunca normalmente é melhor do que exatamente agora \n Se a implementação é difícil de explicar, é uma má ideia Se a implementação é fácil de explicar, pode ser uma boa ideiaNamespaces são uma grande ideia — vamos ter mais dessas!"
     return mensagem
 
 
@@ -71,6 +74,7 @@ while continuar == True:
     elif opcao == 5:
         print("5 - Citações:")
         mensagem = citacoes()
+        print(mensagem)
 
     elif opcao == 6:
         mensagem = sair()
