@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Samuel Harris Altman (Chicago, 22 de abril de 1985) é um empreendedor, investidor e programador estadunidense. É conhecido por ser o presidente da aceleradora Y Combinator e da OpenAI.."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Após terminar o ensino médio, Altman estudou por dois anos na Universidade de Stanford, até desistir junto com dois amigos para focar em uma startup, a Loopt."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "CEO da OpenAI, criador do ChatGPT, presidente da Y Combinator, aceleradora que investe em startups."
     return mensagem
 
 
