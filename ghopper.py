@@ -35,11 +35,10 @@ def erro():
 
 print("\nBoa noite! Você está aprendendo sobre Grace Brewster Murray Hopper.\n")
 
-5 - Citações
-6 - Sair\n
-"""
-        )
-    )
+continuar = True
+while continuar == True:
+
+    opcao = int(input("\nDigite o número correspondente ao menu que você deseja acessar:\n1 - Resumo\n2 - Doutorado\n3 - Contribuições\n4 - Principais Artigos\n5 - Citações\n6 - Sair\n"))
 
     if opcao == 1:
         print("1 - Resumo")
@@ -73,19 +72,7 @@ print("\nBoa noite! Você está aprendendo sobre Grace Brewster Murray Hopper.\n
 continuar = True
 while continuar == True:
 
-    opcao = int(
-        input(
-"""
-\nDigite o número correspondente ao menu que você deseja acessar:
-1 - Resumo
-2 - Doutorado
-3 - Contribuições
-4 - Principais Artigos
-5 - Citações
-6 - Sair\n
-"""
-        )
-    )
+    opcao = int(input("\nDigite o número correspondente ao menu que você deseja acessar:\n1 - Resumo\n2 - Doutorado\n3 - Contribuições\n4 - Principais Artigos\n5 - Citações\n6 - Sair\n\n"))
 
     if opcao == 1:
         print("1 - Resumo")
