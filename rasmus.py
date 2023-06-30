@@ -14,7 +14,7 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Viveu e morreu"
     return mensagem
 
 
