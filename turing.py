@@ -1,10 +1,10 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = ""
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Ensino Médio:  Hancock High School;\nGraduação: Universidade de Michigan - Earlham College;\nPós Graduação: Metereologia no MIT."
     return mensagem
 
 
@@ -14,9 +14,8 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Publicou mais de 130 artigos, atas e relatórios relacionados aos 60 projetos e 6 programas importantes nos quais ela esteve envolvida. "
     return mensagem
-
 
 def citacoes():
     mensagem = ""
@@ -33,7 +32,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print(" ")
 
 continuar = True
 while continuar == True:
