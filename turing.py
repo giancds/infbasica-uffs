@@ -1,28 +1,25 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Charles Babbage foi um cientista, matemático, filósofo, engenheiro mecânico e inventor inglês, que criou o conceito de um computador programável. Ele é principalmente conhecido por ter criado o primeir conputador de uso geral, utilizando partes mecânicas, chamado de máquina análitica, porém exigia técnicas e materais caros na época, e nunca foi construído. Nascido na Inglaterra, mais precisamente em Londres, em meados de 1791. Nascido de uma famíilia rica, seu pai possibilitou que Babbage tivesse acesso a uma ensino muito bom, o que alavancou a carreira acadêmica de Babbage."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Chales Babbage não possui doutorado, mas conta com bacharelado em várias áreas e já atuou como professor de Matemática, no Trinity College, em Cambrigde. Posteriormente foi até mesmo membro da Royal Society of Lodon. Também publicou diversos e artigos recebeu uma bolsa do governo para projectar uma calculadora com capacidade para até a vigésima casa decimal."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "A contribuição mais famosa de Babbage, foi o primeiro computador de uso geral, mas ele também teve muita influência me várias outras áreas e até criou o conceito de Computador Programável."
     return mensagem
 
 
 def artigos():
-    mensagem = """
-On the Economy of Machinery and Manufactures (1832)
-The Exposition of 1851 or Views of the Industry, the Science, and the Government of England (1851)
-"""
+    mensagem = ""
     return mensagem
 
 
 def citacoes():
-    mensagem = "Frase famosa:\nOs erros causados por dados inadequados são muito menores do que aqueles devido à falta total de dados."
+    mensagem = ""
     return mensagem
 
 
