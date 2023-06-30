@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "\nAlan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "\nLinus Benedict Torvalds (28 de dezembro de 1969) é um engenheiro de software, nascido na Finlândia e naturalizado estado-unidense em 2010."
     return mensagem
 
 
@@ -9,7 +9,7 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "\nLinus é criador, e por muito tempo o desenvolvedor mais importante do núcleo Linux, sendo utilizado em importantes sistemas Linux, Android e Chrome OS.\nÉ também o criador do Git, sistema de controle de versão amplamente utilizado, e o aplicativo para planejamento e registro de mergulho, Subsurface."
     return mensagem
 
 
@@ -19,7 +19,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "\nDentre suas citações temos:\n'Nunca me chamaram de um cara legal.'\n'Na minha opinião, a Microsoft é muito melhor em fazer dinheiro do que Sistemas Operacionais.'\n'Se a Microsoft faz aplicações para Linux que significa que eu ganhei.'"
     return mensagem
 
 
