@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "[[Inventing PHP: Rasmus Lerdorf], [25 Years of PHP with Rasmus Lerdorf], [Programming PHP 2e]"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "[[For all the folks getting excited about my quotes. Here is another - Yes, I am a terrible coder, but I am probably still better than you], [We have things like protected properties. We have abstract methods. We have all this stuff that your computer science teacher told you you should be using. I don't care about this crap at all.]"
     return mensagem
 
 
