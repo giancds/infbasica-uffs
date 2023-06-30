@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Performance and Operational Economics Estimates for a Coal Gasification\nCombined-Cycle Cogeneration Powerplant. Nainiger, Joseph J.; Burns, Raymond K.;\nEasley, Annie J. NASA, Lewis Research Center, Cleveland, Ohio. NASA Tech Memo 82729 Mar 1982 31p.\n\nBleed Cycle Propellant Pumping in a Gas-Core Nuclear Rocket Engine System. Kascak,\nA. F.; Easley, A. J. National Aeronautics and Space Administration. Lewis\nResearch Center, Cleveland, Ohio. Report No.: NASA-TM-X-2517; E-6639 March 1972.\n\nEffect of Turbulent Mixing on Average Fuel Temperatures in a Gas-Core Nuclear Rocket\nEngine. Easley, A. J.; Kascak, A. F.; National Aeronautics and Space Administration.\nLewis Research Center, Cleveland, Ohio. Report No.: NASA-TN-D-4882 Nov 1968."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Nada jamais foi dado às minorias ou às mulheres. Foi necessário lutar para conseguir oportunidades iguais, e continuamos lutando hoje em dia.\nAnnie Easley"
     return mensagem
 
 
