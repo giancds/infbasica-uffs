@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Rasmus Lerdorf é um programador canadiano-dinamarquês.\n Ele é o autor da primeira versão da linguagem de programação PHP.\n Lerdorf foi co-autor das versões seguintes do PHP, juntamente com os israelitas fundadores da Zend Technologies, Andi Gutmans e Zeev Suraski."
     return mensagem
 
 
