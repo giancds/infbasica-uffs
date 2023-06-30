@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "DALL E 2: IA capaz de gerar imagens através de inputs fornecidos pelo usuário."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Pessoas são incríveis criaturas de hábitos; Você não deve manufaturar progresso."
     return mensagem
 
 
