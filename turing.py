@@ -1,20 +1,24 @@
 def resumo():
+<<<<<<< HEAD
     mensagem = "John McCarthy foi um cientista estadunidense, conhecido pelos estudos no campo da inteligência artificial e por ser o criador da liguagem de programação Lisp. "
+=======
+    mensagem = ""
+>>>>>>> refs/remotes/origin/main
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "ele tem Ph.D. em mateática pela universidade de Princeton"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "suas contribuições foram foram a abordagem logisitcas para IA e levou ao desenvolvimento da linguagem de computador LISP"
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "artigo sobre linguagem de programção:Funções Recursivas de Expressões Simbólicas e sua Computação por Máquina (Parte I), artigo sobre teoria matematica da computção:A Basis for a Mathematical Theory of Computation,"
     return mensagem
 
 
