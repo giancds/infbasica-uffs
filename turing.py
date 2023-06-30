@@ -1,4 +1,4 @@
-def resumo():def resumo():
+def resumo():
     mensagem = "Annie J. Easley foi uma cientista da computação, matemática e cientista de foguetes americana.\nFoi a líder do time responsável pelo desenvolvimento do software Centaur para processo conhecido como \nstaging- processo de combinação de várias sessões de foguete que pegam fogo em uma ordem específica e, então, \nse destacam da nave principal, para que essa atinja o espaço. Além disso, Annie foi uma das primeiras \nmulheres afro-descendentes a trabalhar, como cientista da computação, para a NASA."
     return mensagem
 
