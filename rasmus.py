@@ -1,10 +1,10 @@
 def resumo():
-    mensagem = "Rasmus Lerdorf é um programador canadiano-dinamarquês.\n Ele é o autor da primeira versão da linguagem de programação PHP.\n Lerdorf foi co-autor das versões seguintes do PHP, juntamente com os israelitas fundadores da Zend Technologies, Andi Gutmans e Zeev Suraski."
+    mensagem = "\nRasmus Lerdorf é um programador canadiano-dinamarquês.\n Ele é o autor da primeira versão da linguagem de programação PHP.\n Lerdorf foi co-autor das versões seguintes do PHP, juntamente com os israelitas fundadores da Zend Technologies, Andi Gutmans e Zeev Suraski."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "\nHe graduated from King City Secondary School in 1988, and in 1993 he graduated from the University of Waterloo with a Bachelor of Applied Science in Systems Design Engineering."
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Rasmus Lerdorf.")
 
 continuar = True
 while continuar == True:
@@ -41,7 +41,7 @@ while continuar == True:
     opcao = int(
         input(
 """
-\nDigite o número correspondente ao menu que você deseja acessar:
+Digite o número correspondente ao menu que você deseja acessar:
 1 - Resumo
 2 - Doutorado
 3 - Contribuições
