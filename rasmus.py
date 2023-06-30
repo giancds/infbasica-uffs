@@ -4,12 +4,12 @@ def resumo():
 
 
 def doutorado():
-    mensagem = "\nHe graduated from King City Secondary School in 1988, and in 1993 he graduated from the University of Waterloo with a Bachelor of Applied Science in Systems Design Engineering."
+    mensagem = "\nSe formou na King City Secondary School em 1988, e, em 1993, formou-se na University of Waterloo como Bacharel em Applied Science in Systems Design Engineering."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Contibuiu para o Apache HTTP Server, adicionou a cláusula LIMIT para o mSQL DBMS, e lançou a primeira versão do PHP (Hypertext Preprocessor) em 1995."
     return mensagem
 
 
