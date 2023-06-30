@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "George Boole (1815-1864) foi um matemático inglês, criador da Álgebra Booleana, trabalho fundamental para a posterior evolução dos computadores."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Em 1835 abriu uma escola e passou a estudar matemática. Ao estudar as obras de Newton, Laplace e Lagrange, escreveu uma série de textos. Foi encorajado pelo matemático Duncan Gregory e começou a estudar álgebra e a publicar seus trabalhos no Cambridge Mathematical Journal."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Em 1857, Boolen foi eleito membro da Royal Society. Recebeu títulos das Universidades de Dubli e Oxford. Entre seus trabalhos publicados estão: “Tratado em Equações Diferenciais” (1859), “Tratado em Cálculo de Diferenças Finitas” (1860), além de mais de 50 trabalhos sobre as propriedades básicas dos números."
     return mensagem
 
 
