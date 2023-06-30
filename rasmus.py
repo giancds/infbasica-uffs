@@ -24,7 +24,7 @@ def citacoes():
 
 
 def sair():
-    mensagem = "\nObrigado pela leitura!"
+    mensagem = "\nObrigado pela leitura!!"
     return mensagem
 
 
