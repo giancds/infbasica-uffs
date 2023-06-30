@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Ensino Médio:  Hancock High School;\nGraduação: Universidade de Michigan - Earlham College;\nPós Graduação: Metereologia no MIT."
     return mensagem
 
 
@@ -14,9 +14,8 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Publicou mais de 130 artigos, atas e relatórios relacionados aos 60 projetos e 6 programas importantes nos quais ela esteve envolvida. "
     return mensagem
-
 
 def citacoes():
     mensagem = "“O que eles faziam quando você começava nessa organização era colocar você em um projeto que ninguém tinha conseguido ainda entender, ou sequer fazer algo funcionar. Quando eu comecei, eles me colocaram nesse projeto também. Era um código complicado e a pessoa que primeiro escreveu o software se orgulhava do fato que todos os comentários estavam em Grego ou Latim. Então me colocaram nesse projeto, e eu consegui fazer ele funcionar. Eu até imprimi as respostas em Grego e Latim. Eu fui a primeira que conseguiu fazer o projeto funcionar”."
