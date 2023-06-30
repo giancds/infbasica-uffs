@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Com o artigo On Computable Numbers, apresentou a ideia de uma máquina universal, a qual seria chamada, posteriormente, de Máquina de Turing. \nNa Victoria University of Manchester, ele ajudou a desenvolver a concepção e a construção dos primeiros computadores com programa armazenado na Inglaterra, além de contribuir no estudo sobre biologia matemática com o artigo sobre a base química da morfogênese, prevendo reações químicas oscilantes."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Ciência é uma equação diferencial. Religião é a condição de contorno. \nNós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer. \nEu não fico muito impressionado com argumentos teológicos, independentemente daquilo que eles estão sendo usado para apoiar. Esses argumentos frequentemente se revelaram insatisfatórios no passado. \nEu acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar."
     return mensagem
 
 
