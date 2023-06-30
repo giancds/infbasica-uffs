@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = ""
     return mensagem
 
 
@@ -9,17 +9,17 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Algoritmo de Dijkstra; Semáforos e exclusão mútua; Notação de Guarda."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "A Note on Two Problems in Connexion with Graphs (1959); Solution of a Problem in Concurrent Programming Control (1965); Guarded Commands, Nondeterminacy and Formal Derivation of Program (1975)."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Um problema digno de ser atacado prova seu valor lutando contra nós; A separação de preocupações é a essência da programação modular; O programador competente está plenamente consciente do tamanho estritamente limitado de seu próprio crânio; portanto, ele aborda a tarefa de programação com plena humildade e, entre outras coisas, evita truques inteligentes como a praga."
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Edsger Dijkstra.\n")
 
 continuar = True
 while continuar == True:
