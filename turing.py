@@ -14,12 +14,15 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = """
+On the Economy of Machinery and Manufactures (1832)
+The Exposition of 1851 or Views of the Industry, the Science, and the Government of England (1851)
+"""
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Frase famosa:\nOs erros causados por dados inadequados são muito menores do que aqueles devido à falta total de dados."
     return mensagem
 
 
