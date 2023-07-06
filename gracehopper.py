@@ -1,25 +1,35 @@
 def resumo():
-    mensagem = ""
+
+    mensagem = "Conhecida como "Rainha do Software", Grace Hopper foi uma cientista da computação e almirante da Marinha dos Estados Unidos."
+
     return mensagem
 
 
 def diplomas():
-    mensagem = ""
+
+    mensagem = "Grace Hopper frequentou a Universidade Yale, onde obteve seu diploma de bacharel em matemática e física em 1928. Mais tarde, ela continuou seus estudos e recebeu seu mestrado em matemática pela Universidade Yale em 1930."
+
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+
+    mensagem = "Grace foi uma das primeiras programadoras do computador Harvard Mark I e contribuiu para o desenvolvimento do COBOL (Common Business-Oriented Language), uma das primeiras linguagens de programação de alto nível."
+
     return mensagem
 
 
 def artigos():
+
     mensagem = "Grace Hopper, uma pioneira da ciência da computação, fez contribuições significativas para o campo. Embora ela tenha escrito diversos artigos e palestras, não existem registros de que tenha publicado dissertações acadêmicas. No entanto, faz-se necessário citar uma lista de algumas de suas obras mais conhecidas:\n1)'The Education of a Computer' - esta palestra, apresentada em 1947, é uma das primeiras descrições públicas sobre o funcionamento interno de um computador. Hopper introduziu conceitos como programação de alto nível e compiladores.\n2)'Automatic Coding for Digital Computers' - Este artigo, publicado em 1952, descreve o desenvolvimento do primeiro compilador, chamado A-0, e apresenta a ideia de programação de alto nível.\n3)'The Computer as a Tool' - Essa palestra, realizada em 1973, discute o papel dos computadores como ferramentas para solucionar problemas complexos e promover a colaboração entre pessoas.\n'Nanoseconds' - durante a década de 1960, Hopper popularizou o termo 'nanossegundos' como uma unidade de tempo para medir a velocidade de processamento dos computadores."
+
     return mensagem
 
 
 def citacoes():
+
     mensagem = "Grace Hopper possui diversas citações inspiradoras, podemos citar algumas, por exemplo:\n1)'Para mim, a programação é mais do que uma importante arte prática. É também um empreendimento gigantesco nas bases do conhecimento.'\n2)'A única frase de que nunca gostei foi: 'Ora, sempre fizemos assim'. Eu sempre digo aos jovens: 'Vá em frente e faça isso. Você sempre pode se desculpar depois'.\n3)'Na época dos pioneiros, eles usavam bois para puxar pesado e, quando um boi não conseguia mover uma tora, eles não tentavam criar um boi maior. Não deveríamos estar tentando computadores maiores, mas mais sistemas de computadores.''"
+
     return mensagem
 
 
