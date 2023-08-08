@@ -1,6 +1,6 @@
 # Trabalho comandos Git/Github - GEX208 | Informática básica | 2023/1
 
-Este é o repositório do trabalho sobre Git/Github, ministrada pelo professor Giancarlo Dondoni Salton. Nesta atividade, nosso objetivo é interagir com o controle de versão Git e com o Github para aprender mais sobre como trabalhar em equipe, versionar e colaborar em um projeto.
+Este é o repositório do trabalho sobre Git/Github, ministrado pelo professor Giancarlo Dondoni Salton. Nesta atividade, nosso objetivo é interagir com o controle de versão Git e com o Github para aprender mais sobre como trabalhar em equipe, versionar e colaborar em um projeto.
 
 ## Instruções
 
