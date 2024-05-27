@@ -9,17 +9,17 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "The bombe, onde era usada para decifrar as mensagens emetidas pela uma outra maquina, Enigma, durante a segunda guerra mundial contra os alemôes"
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "On Computable Numbers, with an Application to the Entscheidungsproblem (1936) \nComputing Machinery and Intelligence (1950) \nOn Computable Numbers, with an Application to the Entscheidungsproblem: A correction (1937) \nIntelligent Machinery (1948) \nThe Chemical Basis of Morphogenesis (1952)"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "https://brasilescola.uol.com.br/biografia/alan-mathison.htm /n https://www.cos.ufrj.br/semana/2016/slides/slides_luis.pdf"
     return mensagem
 
 
