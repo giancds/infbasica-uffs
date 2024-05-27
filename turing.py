@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Barbara Liskov nascida em Los Angeles no dia 7 de Novembro de 1939, cresceu em San Francisco filha de Jane e Moses Huberman. Não ingressou diretamente na universidade, trabalhando antes alguns anos."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado em Ciência da Computação"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Liskov é membro da Academia Nacional de Engenharia (NAE), da Academia Nacional de Ciências, parceira da Academia Americana de Artes e Ciência e da associação de Maquinário para Computação (ACM). Liskov liderou muitos projetos significativos, incluindo o sistema operacional Vénus, um sistema interativo pequeno, de baixo custo e compartilhado."
     return mensagem
 
 
