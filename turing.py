@@ -1,20 +1,30 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Alan Turing foi um matemático e cientista da computação britânico cujo trabalho teve um impacto profundo e duradouro em várias disciplinas. Ele é mais conhecido por formular o conceito da Máquina de Turing, um modelo abstrato de um computador, que estabeleceu os fundamentos teóricos da computabilidade e da ciência da computação.Durante a Segunda Guerra Mundial, Turing desempenhou um papel crucial na quebra dos códigos de comunicação nazistas, contribuindo para a vitória dos Aliados." 
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "De setembro de 1936 a julho de 1938, Turing realizou seu doutorado em Princeton, Nova Jersey, sob a orientacao de Alonzo Church."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Máquina de Turing: Turing é mais conhecido por formular o conceito teórico da "Máquina de Turing" em 1936. 
+    Esse dispositivo, embora uma abstração matemática, é considerado o modelo básico de qualquer computador digital. 
+    Ele ajudou a estabelecer os fundamentos teóricos da computação e da computabilidade.
+    Teoria da Computação: Turing desenvolveu conceitos fundamentais para a teoria da computabilidade, estabelecendo limites teóricos para o que pode ser calculado e o que não pode. 
+    Seu trabalho influenciou profundamente o desenvolvimento da teoria da complexidade computacional e da lógica matemática.
+    este de Turing: Em 1950, Turing propôs o "Teste de Turing" em seu artigo "Computing Machinery and Intelligence". 
+    Ele sugeriu que um computador pode ser considerado inteligente se pudesse enganar um humano a acreditar que está interagindo com outro humano durante uma conversa. 
+    Este teste continua a ser uma referência importante na discussão sobre inteligência artificial."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "On Computable Numbers, with an Application to the Entscheidungsproblem" (1936)
+    "Computing Machinery and Intelligence" (1950)
+    Digital Computers Applied to Games" (1953)
+    The Chemical Basis of Morphogenesis" (1952)"
     return mensagem
 
 
