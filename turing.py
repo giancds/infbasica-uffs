@@ -9,12 +9,17 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = """Foi agraciado com o prêmio Turing de 1975 (considerado o prêmio Nobel da ciência da computação) e de fato foi um dos pioneiros da disciplina tecnocientífica chamada “inteligência artificial” (I.A.).  """
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = """1938 (com Clarence E. Ridley). Measuring Municipal Activities: a Survey of Suggested Criteria and Reporting Forms For Appraising Administration.
+1943. Fiscal Aspects of Metropolitan Consolidation.
+1945. The Technique of Municipal Administration, 2d ed.
+1955. "A Behavioral Model of Rational Choice", Quarterly Journal of Economics, vol. 69, 99–118.
+1956. "Reply: Surrogates for Uncertain Decision Problems", Office of Naval Research, Jan. 1956.
+– Reprinted in 1982, In: H.A. Simon, Models of Bounded Rationality, Volume 1, Economic Analysis and Public Policy, Cambridge, Mass., MIT Press, 235–44. """
     return mensagem
 
 
