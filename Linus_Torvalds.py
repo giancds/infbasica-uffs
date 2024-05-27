@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Não encontrado"
     return mensagem
 
 
@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Com base em pesquisas, não foi possível encontrar nenhum artigo escrito por Linus Torvalds."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Se a Microsoft faz aplicações para Linux que significa que eu ganhei."
     return mensagem
 
 
