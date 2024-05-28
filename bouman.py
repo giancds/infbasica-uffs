@@ -4,12 +4,12 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado em ciência da computação e inteligência artificial no Instituto de Tecnologia de Massachusetts (MIT), nos Estados Unidos"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Liderou o desenvolvimento do algoritmo que possibilitou capturar a primeira imagem de um buraco negro. Em conjunto com outros cientistas, foi uma das principais responsáveis por criar e elaborar este algoritmo, que foi capaz de contabilizar os dados obtidos pelos telescópios e gerar a imagem."
     return mensagem
 
 
@@ -40,7 +40,7 @@ while continuar == True:
 
     opcao = int(
         input(
-"""
+            """
 \nDigite o número correspondente ao menu que você deseja acessar:
 1 - Resumo
 2 - Doutorado
