@@ -1,20 +1,21 @@
+# fonte: https://pt.wikipedia.org/wiki/John_McAfee
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "John McAfee (18 de setembro de 1945—23 de junho de 2021)[2] foi um programador de computadores britânico, fundador da McAfee. Foi uma das primeiras pessoas a projetar software antivírus e desenvolver scanner de vírus. "
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Recebeu seu diploma de bacharel em matemática pela Faculdade de Roanoke em 1967, e recebeu um doutorado honorário da Faculdade de Roanoke em 2008. "
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Em 1987 fundou a McAfee Associates, uma empresa de software de antivírus. Ele foi o primeiro a distribuir software antivírus usando shareware."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Em um artigo de 2012 no jornal interno da Mensa, ele afirmou que ser o desenvolvedor do primeiro programa antivírus comercial fez dele ""o alvo mais popular dos Hackers"", tendo informado que ""Hackers me veem como uma medalha de ouro""."
     return mensagem
 
 
