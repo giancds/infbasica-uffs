@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = "Doutorado      em ciência da computação e inteligência artificial no Instituto de Tecnologia de Massachusetts (MIT), nos Estados Unidos"
+    mensagem = "Doutorado em ciência da computação e inteligência artificial no Instituto de Tecnologia de Massachusetts (MIT), nos Estados Unidos"
     return mensagem
 
 
