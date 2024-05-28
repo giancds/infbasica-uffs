@@ -1,10 +1,11 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = ("""
+    Herbert Alexander Simon foi um economista alemão, com cidadania estadunidense. Foi agraciado com o Prémio de Ciências Económicas em Memória de Alfred Nobel de 1978. Foi um pesquisador nos campos de psicologia cognitiva, informática, administração pública, sociologia económica, e filosofia.""")
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = ("Simon recebeu seu doutorado em ciências políticas pela Universidade de Chicago em 1943. Sua obra abrangeu campos tão diversos como economia, ciência da computação, psicologia cognitiva e teoria da administração. Em 1978 recebeu o Prêmio Nobel de Economia, juntamente com seu colega, por seu trabalho pioneiro em teoria da decisão. Fora isso, Recebeu ainda a Medalha Nacional de Ciência, em 1986 e o Award for Outstanding Lifetime Contributions to Psychology, da APA, em 1993.")
     return mensagem
 
 
