@@ -1,25 +1,25 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Katherine Louise Bouman é uma professora assistente de ciência da computação no Instituto de Tecnologia da Califórnia. Ela pesquisa métodos computacionais para geração de imagens e foi uma das pessoas responsáveis pela reprodução da primeira imagem de um buraco negro. "
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado em ciência da computação e inteligência artificial no Instituto de Tecnologia de Massachusetts (MIT), nos Estados Unidos"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Liderou o desenvolvimento do algoritmo que possibilitou capturar a primeira imagem de um buraco negro. Em conjunto com outros cientistas, foi uma das principais responsáveis por criar e elaborar este algoritmo, que foi capaz de contabilizar os dados obtidos pelos telescópios e gerar a imagem."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Imagens extremas via inversão de modelo físico: vendo além dos cantos e criando imagens de buracos negros"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "É possível enxergar algo que, por definição, é impossível de ser visto?"
     return mensagem
 
 
@@ -33,14 +33,14 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Katherine Bouman.\n")
 
 continuar = True
 while continuar == True:
 
     opcao = int(
         input(
-"""
+            """
 \nDigite o número correspondente ao menu que você deseja acessar:
 1 - Resumo
 2 - Doutorado
