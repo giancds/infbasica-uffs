@@ -1,10 +1,10 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Larry Page é um empresário e engenheiro de computação americano, mais conhecido por ser o co-fundador da Google junto com Sergey Brin. Ele nasceu em 1973 em Lansing, Michigan, nos Estados Unidos. Page é conhecido por sua visão inovadora e por ter desempenhado um papel fundamental no desenvolvimento do algoritmo de busca do Google, que revolucionou a forma como as pessoas encontram informações na internet. Ele também foi CEO da Google durante vários períodos, desempenhando um papel crucial no crescimento e na expansão da empresa. Além de seu trabalho na Google, Page também é investidor em diversas empresas de tecnologia e tem interesse em áreas como inteligência artificial e mobilidade urbana."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado em Ciência da Computação na prestigiosa Universidade Stanford."
     return mensagem
 
 
@@ -19,7 +19,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "ChatGPT"
     return mensagem
 
 
