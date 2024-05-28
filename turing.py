@@ -1,25 +1,25 @@
 def resumo():
-    mensagem = "Blaise Pascal foi responsável pela invenção da primeira calculadora mecânica, um vislumbre do potencial computacional que os próximos séculos viriam a ostentar."
+    mensagem = ""
     return mensagem
 
 
 def doutorado():
-    mensagem = "Crescido em uma família com negócios já bem estabelecido, Pascal marcou seu nome na história não por uma formação excepcional com diversas certificações, uma vez que embora frequentasse algumas universidades ocasionalmente, teve sua criação pautada no ensino familiar e no autodidatismo, tendo o tédio e o fascínio pela física, matemática e filosofia como principal motivação de suas descobertas."
+    mensagem = ""
     return mensagem
 
 
 def contribuicoes():
-    mensagem = "Pascal desenvolveu a primeira calculadora mecânica de operações básicas, a teoria das probabilidades, e fez ponderações sobre a mecânica dos fluídos e a natureza do vácuo. Flertou ainda com algumas ideias do campo filosófico, tendo como maiores motivações Kant e Descartes."
+    mensagem = ""
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Les Provincias(As Provincias): Série de 18 cartas escritas sob pseudônimo de Louis de Montalte, Pensées (Pensamentos): Coleção de anotações e reflexções "
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "O coração tem razões que  razão descohece, A infelicidade vem de uma só coisa"
     return mensagem
 
 
