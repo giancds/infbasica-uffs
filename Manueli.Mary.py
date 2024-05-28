@@ -1,20 +1,20 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "MARY KELLER, É considerada a primeira mulher a receber um doutorado em Ciência da Computação. Também obteve mestrado em Matemática e Física. Foi uma freira norte-americana, nascida em Ohio. Ela participou no desenvolvimento da linguagem de programação BASIC. Também foi forte ativista feminista e desenvolveu projetos para inclusão e estímulo de mulheres e crianças na computação."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "doutorado em Ciência da Computação"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Ela participou no desenvolvimento da linguagem de programação BASIC."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "O Martelo e a Flauta : Mulheres, Poder e Posse do Espírito, Mary Keller"
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Mary Keller.\n")
 
 continuar = True
 while continuar == True:
