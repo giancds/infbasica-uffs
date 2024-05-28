@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Mary Kenneth Keller foi uma importante freira e cientista da computação, foi a primeira mulher doutora em ciência da computação."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Keller, Mary Kenneth (1965). Inductive inference on computer generated patterns (PhD Thesis). Madison, Wisconsin: The University of Wisconsin."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Contribuiu para a criação da linguagem de programação BASIC, que seria utilizada para fins didáticos."
     return mensagem
 
 
