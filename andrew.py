@@ -1,25 +1,25 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Andrew Stuart Tanenbaum é o autor do MINIX, um sistema operacional baseado no Unix com propósito educacional e é conhecido por seus livros sobre ciência da computação."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado pela UC Berkeley em 1971."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Criou o MINIX, um sistema operacional educacional, e é conhecido por seus livros sobre ciência da computação."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Sistema Operacionais Moderno, 1992. Organização Estrutura de Computadores, 1975. Redes de computadores, 1988.  "
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Combata funcionalidades… a única forma de fazer software seguro, confiável e rápido é faze-lo pequeno.”"
     return mensagem
 
 
