@@ -9,22 +9,22 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Linus Torvalds contribuiu imensamente para a área da computação, principalmente por criar o kernel Linux, que é amplamente utilizado em sistemas operacionais em todo o mundo."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Linus Torvalds escreveu muitos artigos técnicos e posts em fóruns de discussão, mas ele é mais conhecido por seu trabalho no desenvolvimento e manutenção do kernel Linux."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Uma das citações famosas de Linus Torvalds é: 'A vida é curta demais para mergulhar no código de outra pessoa.'"
     return mensagem
 
 
 def sair():
-    mensagem = "\nObrigado pela leitura!"
+    mensagem = "\nBoa noite! Você está aprendendo sobre Linus Torvalds."
     return mensagem
 
 
