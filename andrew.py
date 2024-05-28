@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = ""
-    return mensagemo
+    mensagem = "Andrew Stuart Tanenbaum é o autor do MINIX, um sistema operacional baseado no Unix com propósito educacional e é conhecido por seus livros sobre ciência da computação."
+    return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado pela UC Berkeley em 1971."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Criou o MINIX, um sistema operacional educacional, e é conhecido por seus livros sobre ciência da computação."
     return mensagem
 
 
