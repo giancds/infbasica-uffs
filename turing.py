@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "John von Neumann, nascido em 23 de dezembro de 1903 na região de Margittai Neumann János Lajos, foi um matemático húngaro de origem judaica, naturalizado estadunidense.\nFoi um dos responsáveis pela criação do ENIAC (Electronic Numeric Integrator and Computer), o primeiro computador para uso profissional (militar). Desensolvedor de uma arquitetura capaz de armazenar e executar programas em uma máquina, que posteriormente seria conhecida como Arquitetura de Von Neumann."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutoramento em Matemática"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Contribuiu na teoria dos conjuntos, análise funcional, teoria ergódica, mecânica quântica, ciência da computação, economia, teoria dos jogos, análise numérica, hidrodinâmica das explosões, estatística e muitas outras áreas da matemática.\nEntre suas obras, estão: Autômato celular de von Neumann, Vizinhança de von Neumann, Construtor universal de Von Neumann, arquitetura de von Neumann, Álgebra de von Neumann, entre outros."
     return mensagem
 
 
@@ -43,7 +43,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre John von Neumann.\n")
 
 continuar = True
 while continuar == True:
