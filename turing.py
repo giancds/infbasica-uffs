@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "É autora de mais de 140 artigos científicos"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "A principal motivação para desenvolver boas abstrações é a de permitir a construção de sistemas grandes e complexos de maneira compreensível e gerenciável.2-O desenvolvimento de software é inerentemente difícil porque é um esforço humano, e as pessoas são falíveis. Devemos criar ferramentas e metodologias que ajudem a mitigar essa falibilidade."
     return mensagem
 
 
