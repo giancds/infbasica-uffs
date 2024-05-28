@@ -20,7 +20,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Você não pode parar coisas como a Bitcoin. É como tentar parar pólvora."
     return mensagem
 
 
