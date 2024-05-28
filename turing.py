@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Blaise Pascal foi responsável pela invenção da primeira calculadora mecânica, um vislumbre do potencial computacional que os próximos séculos viriam a ostentar."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Crescido em uma família com negócios já bem estabelecido, Pascal marcou seu nome na história não por uma formação excepcional com diversas certificações, uma vez que embora frequentasse algumas universidades ocasionalmente, teve sua criação pautada no ensino familiar e no autodidatismo, tendo o tédio e o fascínio pela física, matemática e filosofia como principal motivação de suas descobertas."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Pascal desenvolveu a primeira calculadora mecânica de operações básicas, a teoria das probabilidades, e fez ponderações sobre a mecânica dos fluídos e a natureza do vácuo. Flertou ainda com algumas ideias do campo filosófico, tendo como maiores motivações Kant e Descartes."
     return mensagem
 
 
