@@ -25,7 +25,7 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = """ O objetivo da Ciência é tornar o belo e complexo, compreensível e simples – mas não menos maravilhoso. """
     return mensagem
 
 
