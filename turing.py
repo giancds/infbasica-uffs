@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Marie Skłodowska-Curie, nascida Maria Salomea Skłodowska, foi uma física e química polonesa naturalizada francesa, que conduziu pesquisas pioneiras sobre radioatividade."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Recebeu seu doutorado em março de 1895 e fez sua tese de doutorado em raios urânicos."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Por meio de sua tese de doutorado, ela conseguiu provar que o óxido de urânio é um mineral capaz de eliminar a radiação armazenada nos átomos. Com isso, descobriu ainda a radioatividade. Além disso, juntamente com Pierre Curie, ela descobriu dois novos elementos químicos: Polônio e Rádio."
     return mensagem
 
 
