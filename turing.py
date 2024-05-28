@@ -1,7 +1,6 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
-    return mensagem
-
+    mensagem = "John Bardeen nasceu dia 23 de outubro de 1908 em Medison - EUA. Suas principais criações envolvem as pesquisas dos semicondutores e foi o criador dos transistores"
+    return mensage
 
 def doutorado():
     mensagem = ""
@@ -19,7 +18,15 @@ def artigos():
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "John Bardeen foi um dos grandes físicos do século XX. Sua contribuição para o desenvolvimento do transistor e para a compreensão da supercondutividade foi monumental. - Steven Chu" +
+
+"A mente brilhante por trás do transistor e da teoria da supercondutividade, John Bardeen deixou um legado que continua a influenciar profundamente a física e a tecnologia modernas. - Richard Feynman" +
+
+"John Bardeen exemplifica a combinação de criatividade, rigor intelectual e dedicação que define os grandes cientistas. Seu trabalho inovador mudou o mundo de maneiras que nunca poderíamos ter previsto. - Murray Gell-Mann" +
+
+"John Bardeen personificava a busca incansável pelo conhecimento e pela excelência científica. Sua abordagem meticulosa e sua capacidade de pensar de forma original o destacaram como uma figura verdadeiramente notável na história da física - Nicolaas Bloembergen" +
+
+"A genialidade de John Bardeen reside não apenas em suas descobertas revolucionárias, mas também em sua capacidade de compartilhar seu conhecimento e inspirar futuras gerações de cientistas. - Chen-Ning Yang"
     return mensagem
 
 
